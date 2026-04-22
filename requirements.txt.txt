@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+faiss-cpu
+scikit-learn
+base64
+pathlib
+Path
+groq
+requests
+datetime
